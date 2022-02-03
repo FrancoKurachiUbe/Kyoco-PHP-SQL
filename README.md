@@ -8,5 +8,5 @@ Es un E-commerce hecho en PHP que se conecta con una base de datos SQL en donde 
 
 ### Panel Admin:
 Para ingresar al admin primero deberá agregar en la url la palabra admin.</br>
-ej: Kyoco-PHP-SQL-Bootstrap-.-main/admin/index.php?s=home
+ej: Kyoco-PHP-SQL/admin/index.php?s=home
 
