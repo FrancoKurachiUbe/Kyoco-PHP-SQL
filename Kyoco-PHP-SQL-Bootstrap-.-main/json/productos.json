@@ -1,0 +1,50 @@
+[
+        {
+            "nombre":       "Night Smoke",
+            "imagen":       "img/producto/NightSmoke.jpg" ,
+            "img_detalle":  "img/detalle_NightSmoke.jpg",
+            "descripcion":  "Aroma: Coco, mandarina, pera",
+            "precio":       "1800",
+            "id":            0
+        },
+        {
+            "nombre":           "Aura",
+            "imagen":           "img/producto/Aura.jpg",
+            "img_detalle":      "img/detalle_Aura.jpg",
+            "descripcion":      "Aroma: Coco, mandarina, pera",
+            "precio":           "3200",
+            "id":               1
+        },
+        {
+            "nombre":           "Stars Wills",
+            "imagen":           "img/producto/StarsWills.jpg" ,
+            "img_detalle":      "img/detalle_StarsWills.jpg",
+            "descripcion":      "Vela de cera de soja 100% natural.",
+            "precio":           "1800",
+            "id":               2
+        },
+        {
+            "nombre":           "Blanca Botanica",
+            "imagen":           "img/producto/BlancaBotanica.jpg",
+            "img_detalle":      "img/detalle_BlancaBotanica.jpg",
+            "descripcion":      "Aroma: Orange & Pepper",
+            "precio":           "2300",
+            "id":                3
+        },
+        {
+            "nombre":           "Hologram",
+            "imagen":           "img/producto/Hologram.jpg" ,
+            "img_detalle":      "img/detalle_Hologram.jpg",
+            "descripcion":      "Aroma: Granada & Manzanilla",
+            "precio":           "1950",
+            "id":               4
+        },
+        {
+            "nombre":           "Byron",
+            "imagen":           "img/producto/Byron.jpg",
+            "img_detalle":      "img/detalle_Byron.jpg",
+            "descripcion":      "Vela de cera de soja 100% natural",
+            "precio":           "1600",
+            "id":               5
+        }
+    ]
